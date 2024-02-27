@@ -45,6 +45,10 @@ $navitems = [
         'href' => 'index.php?page=cron',
         'name' => 'cron'
     ],
+    [
+        'href' => 'index.php?page=openssl',
+        'name' => 'openssl'
+    ],
 ];
 
 $page = getvar( 'page', 'index' );
