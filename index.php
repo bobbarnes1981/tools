@@ -41,6 +41,10 @@ $navitems = [
         'href' => 'index.php?page=base64',
         'name' => 'base64'
     ],
+    [
+        'href' => 'index.php?page=cron',
+        'name' => 'cron'
+    ],
 ];
 
 $page = getvar( 'page', 'index' );
