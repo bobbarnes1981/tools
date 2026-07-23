@@ -25,7 +25,11 @@ $links = [
     [
         'rel' => 'stylesheet',
         'href' => 'static/jquery-ui-1.13.2/jquery-ui.css'
-    ]
+    ],
+    [
+        'rel' => 'stylesheet',
+        'href' => 'static/css/style.css'
+    ],
 ];
 
 $navitems = [
