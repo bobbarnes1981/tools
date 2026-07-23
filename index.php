@@ -49,6 +49,10 @@ $navitems = [
         'href' => 'index.php?page=openssl',
         'name' => 'openssl'
     ],
+    [
+        'href' => 'index.php?page=urlencode',
+        'name' => 'urlencode'
+    ],
 ];
 
 $page = getvar( 'page', 'index' );
